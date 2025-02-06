@@ -145,6 +145,3 @@ ORDER BY total_orders DESC;
 
 ## Author
 Kaif
-
-- GitHub: [Your GitHub Profile](#)
-- LinkedIn: [Your LinkedIn Profile](#)
